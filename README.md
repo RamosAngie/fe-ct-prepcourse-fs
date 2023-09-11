@@ -3,6 +3,7 @@
 # **🧑‍💻 PREP COURSE | HENRY 👩‍💻**
 
 ## **📌 INTRODUCCIÓN**
+# **Este repositorio pertenece a: Angie Ramos!!**
 
 ¡Hola 😄! Bienvenid@ al Prep Course para la carrera de Desarrollo Web Full Stack.
 
